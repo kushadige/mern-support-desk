@@ -1,5 +1,6 @@
 # mern-support-desk
 
 * MongoDB
-* Redux Toolkit
-* Express
+* React, Redux Toolkit
+* Node, Express
+* Heroku
